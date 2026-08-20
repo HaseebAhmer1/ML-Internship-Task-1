@@ -30,13 +30,4 @@ By the end of this task, you will be able to:
 - A reproducible Jupyter notebook (or `.py` scripts) solving the task end-to-end.
 - A professional `REPORT.md` (or PDF) with insights, decisions, and recommendations.
 - At least **5 high-quality visualizations** that communicate findings clearly.
-- A pushed GitHub folder under `Task_01_Exploratory_Data_Analysis_Deep_Dive/` in your repo:
-  [https://github.com/haseebahmer1](https://github.com/haseebahmer1)
-- A short LinkedIn post (optional but encouraged) summarizing what you learned.
 
----
-
-## 🔗 Related Files
-
-- 📄 [`TASK.md`](./TASK.md) — Full requirements and deliverables
-- 📚 [`RESOURCES.md`](./RESOURCES.md) — Curated learning materials
