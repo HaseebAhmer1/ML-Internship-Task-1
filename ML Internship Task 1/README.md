@@ -1,6 +1,6 @@
 # Task 01 — Exploratory Data Analysis Deep Dive
 
-> **Month 1 | ML Internship Program | Student: Mussa Khan ([@musagithub1](https://github.com/musagithub1))**
+> **Month 1 | ML Internship Program | Student: Mussa Khan ([@haseebahmer1](https://github.com/haseebahmer1))**
 
 ---
 
